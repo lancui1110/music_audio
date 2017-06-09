@@ -1,0 +1,33 @@
+{
+    "songData": [
+        {
+            "albumName": "刘明湘",
+            "albumCoverMax": "images/1.jpg",
+            "albumSong": [{
+                    "musicName": "飘扬过海来看你 (原唱：刘明湘)",
+                    "musicSinger": "刘明湘",
+                    "musicLink": "music/1.mp3",
+                    "lyricsLink": "lyrics/1.lrc",
+                    "musicTime": "05:00",
+                    "albumCoverMin": "images/1.jpg"
+                }
+            ]
+        }, {
+            "albumName": "林忆莲",
+            "albumCoverMax": "images/2.jpg",
+            "albumSong": [
+                {
+                    "musicName": "为你我受冷风吹 (原唱：林忆莲)",
+                    "musicSinger": "林忆莲",
+                    "musicLink": "music/2.mp3",
+                    "lyricsLink": "lyrics/2.lrc",
+                    "musicTime": "05:00",
+                    "albumCoverMin": "images/2.jpg"
+                }
+
+            ]
+        }
+
+    ],
+    "songNum": 2
+}
